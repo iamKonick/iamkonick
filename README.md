@@ -10,15 +10,17 @@ I believe what is true what’s not.
 - I am a perfectionist most of the time. I love challenges which brings out the best in me!
 <br>
 ## Connect with me
+<br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/efty-konick/"><img align="left" alt="LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/eftykonick/"><img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Twitter" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube2_colored_svg-256.png" style="max-width:100%;"></a>
+
 <br>
 <br>
 
 ## Expertise
-
+<br>
 <p><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></p>
 
 <p><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></p>
@@ -38,11 +40,6 @@ I believe what is true what’s not.
 <p><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;"></p>
 
 <p><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></p>
-
-
-
-
-
 
 <br>
 <br>
