@@ -44,6 +44,10 @@ I believe what is true what’s not.
 <br>
 <br>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **iamKonick/iamkonick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
