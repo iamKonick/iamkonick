@@ -12,9 +12,9 @@ I believe what is true what’s not.
 ## Connect with me
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/efty-konick/"><img align="left" alt="LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" style="max-width:100%;"></a>
-<p><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/eftykonick/"><img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-256.png" style="max-width:100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Twitter" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-256.png" style="max-width:100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube2_colored_svg-256.png" style="max-width:100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/eftykonick/"><img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-256.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Twitter" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-256.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube2_colored_svg-256.png" style="max-width:100%;"></a>
 
 
 <br>
