@@ -30,6 +30,8 @@ I believe what is true what’s not.
 
 <p><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></p>
 
+<p><img align="left" alt="Wordpress" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-256.png" style="max-width:100%;"></p>
+
 <p><img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;"></p>
 
 <p><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></p>
