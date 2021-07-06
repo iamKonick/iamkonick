@@ -13,14 +13,16 @@ I believe what is true what’s not.
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/eftykonick)
 <br>
 <br>
+
 ## Expertise
+<img align="left" alt="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="wordpress" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_wordpress-256.png?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="html" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="css" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700035-icon-77-document-file-css-256.png?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="bootstrap" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-256.png?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="javascript" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
 
