@@ -9,7 +9,7 @@ I believe what is true what’s not.
 
 - I am a perfectionist most of the time. I love challenges which brings out the best in me!
 <br>
-## Connect with me
+<h3>Connect with me</h3>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/efty-konick/"><img align="left" alt="LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/eftykonick/"><img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-256.png" style="max-width:100%;"></a>
