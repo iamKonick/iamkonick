@@ -46,7 +46,11 @@ I believe what is true what’s not.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [লাদাখ রোড ট্রিপ – দুরন্ত, দুর্বার, মোহময়](https://story.konick.life/ladakh-road-trip/)
+- [Rock, Paper, Scissor with computer choice – javaScript Code](https://story.konick.life/rock-paper-scissor-with-computer-choice-javascript-code/)
+- [How to apply for a Indian Transit Visa from Bangladesh](https://story.konick.life/how-to-apply-for-a-indian-transit-visa-from-bangladesh/)
+- [How to apply for a Thailand Visa Online from Bangladesh [Step By Step]](https://story.konick.life/how-to-apply-for-a-thailand-visa-online-from-bangladesh-step-by-step/)
+- [Why Hungry Man Failed! [Case Study]](https://story.konick.life/why-hungry-man-failed-case-study/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
