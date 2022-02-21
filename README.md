@@ -1,6 +1,6 @@
 ### Hello 👋 I am Md. Efthakhar Ul Alam Konick <a href="https://Konick.life" target="_blank" rel="noopener noreferrer">Website</a>
 
-## Entrepreneur | Digital Strategist | Startup Enthusiast
+## Web Developer | Startup Enthusiast
 
 - I have sold close to 500 Business websites which includes Niche Blogs, Amazon Affiliate websites & more. All of them were designed & developed by me. Including the content planning and writing. I also worked as a Website broker for FlipPros. Where I used to look for opportunities to buy sites with proper earning proof from Adsense, Amazon or any other Display Advertising platform and then work on those to scale up the earning and sell it for 25-40x current earning price.
 I believe what is true what’s not.
