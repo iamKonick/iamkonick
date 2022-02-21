@@ -2,8 +2,7 @@
 
 ## Web Developer | Startup Enthusiast
 
-- I have sold close to 500 Business websites which includes Niche Blogs, Amazon Affiliate websites & more. All of them were designed & developed by me. Including the content planning and writing. I also worked as a Website broker for FlipPros. Where I used to look for opportunities to buy sites with proper earning proof from Adsense, Amazon or any other Display Advertising platform and then work on those to scale up the earning and sell it for 25-40x current earning price.
-I believe what is true what’s not.
+- I'm a junior web developer with diverse skillset based in Erfurt. Studying at FH Schmalkalden University of Applied Sciences in Applied Computer Science (Master). Entrepreneur mindset, startup enthusiast, perfectionist, team player and very fast-learner.
 
 - I’m passionate, optimistic & dedicated to my work. Responsibilities with utmost enthusiasm to deliver the best of mine while working. I have a great amount of perseverance to achieve my goal. I do is what driving me towards my success.
 
