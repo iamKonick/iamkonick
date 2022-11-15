@@ -3,9 +3,6 @@
 ## Frontend Engineer | Startup Enthusiast | Entrepreneur Mindset 
 ## Tailwind - JavaScript - ReactJS - NodeJS - MongoDB
 
-
-- I'm a junior web developer with diverse skillset based in Erfurt. Studying at FH Schmalkalden University of Applied Sciences in Applied Computer Science (Master). Entrepreneur mindset, startup enthusiast, perfectionist, team player and very fast-learner.
-
 - I've always had a natural curiosity for technology. As a child, I loved taking things apart and putting them back together. I always had an eye for Entrepreneurship and StartUps. 
 
 - Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software components and logical solutions to solve problems. 
