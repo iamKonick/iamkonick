@@ -1,12 +1,19 @@
-### Hello 👋 I am Md. Efthakhar Ul Alam Konick <a href="https://Konick.life" target="_blank" rel="noopener noreferrer">Website</a>
+### Hello 👋 I am Md. Efthakhar Ul Alam Konick
 
-## Web Developer | Startup Enthusiast
+## Frontend Engineer | Startup Enthusiast | Entrepreneur Mindset 
+## Tailwind - JavaScript - ReactJS - NodeJS - MongoDB
+
 
 - I'm a junior web developer with diverse skillset based in Erfurt. Studying at FH Schmalkalden University of Applied Sciences in Applied Computer Science (Master). Entrepreneur mindset, startup enthusiast, perfectionist, team player and very fast-learner.
 
-- I’m passionate, optimistic & dedicated to my work. Responsibilities with utmost enthusiasm to deliver the best of mine while working. I have a great amount of perseverance to achieve my goal. I do is what driving me towards my success.
+- I've always had a natural curiosity for technology. As a child, I loved taking things apart and putting them back together. I always had an eye for Entrepreneurship and StartUps. 
 
-- I am a perfectionist most of the time. I love challenges which brings out the best in me!
+- Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software components and logical solutions to solve problems. 
+
+- Currently, studying Applied Computer Science (Master) at FH Schmalkalden, Deutschland and looking for something new to collaborate and help shape the industry with my ideas, skills, and leadership capabilities. I have a great amount of perseverance to achieve my goal. I do is what drives me towards my success. 
+
+
+#Github: https://github.com/iamKonick
 <br>
 <h3>Connect with me</h3>
 <br>
