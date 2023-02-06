@@ -1,7 +1,7 @@
 ### Hello 👋 I am Md. Efthakhar Ul Alam Konick
 
 ## Frontend Engineer | Startup Enthusiast | Entrepreneur Mindset 
-### Tailwind - JavaScript - VueJS - NodeJS - MongoDB - Docker - Git
+### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - MongoDB - Docker - Git
 
 - I've always had a natural curiosity for technology. As a child, I loved taking things apart and putting them back together. I always had an eye for Entrepreneurship and StartUps. 
 
