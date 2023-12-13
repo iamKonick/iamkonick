@@ -17,7 +17,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/efthakhar-ul-alam-26651a232/"><img align="left" alt="LinkedIn" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/eftykonick/"><img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-18/512/Facebook-2-256.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/eftykonick"><img align="left" alt="Twitter" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-256.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="[https://youtube/eftykonick](https://www.youtube.com/channel/UCwN62O4kxpD0hGl2_CG1yuw)"><img align="left" alt="Youtube" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCwN62O4kxpD0hGl2_CG1yuw"><img align="left" alt="Youtube" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" style="max-width:100%;"></a>
 
 <br>
 <br>
