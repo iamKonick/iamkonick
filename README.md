@@ -1,4 +1,4 @@
-### Hello 👋 I am Md. Efthakhar Ul Alam Konick
+### Hello 👋 I am Efty
 
 ## DevOps Enthusiast | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
 ### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
