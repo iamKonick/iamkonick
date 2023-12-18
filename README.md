@@ -1,6 +1,6 @@
 ### Hello 👋 I am Md. Efthakhar Ul Alam Konick
 
-## Frontend Engineer | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
+## DevOps Enthusiast | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
 ### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
 ### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Docker - Git
 
