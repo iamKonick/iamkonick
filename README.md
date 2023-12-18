@@ -17,7 +17,6 @@
 #TechnologyEnthusiast #Entrepreneurship #StartUp #Innovation #AppliedComputerScience #DevOps #FrontendDeveloper
 
 
-#Github: https://github.com/iamKonick
 <br>
 <h3>Connect with me</h3>
 <br>
