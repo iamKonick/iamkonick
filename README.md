@@ -4,11 +4,17 @@
 ### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
 ### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Docker - Git
 
-- I've always had a natural curiosity for technology. As a child, I loved taking things apart and putting them back together. I always had an eye for Entrepreneurship and StartUps. 
+- My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups HelloDoggy, SmartHR & and TripLet. 
 
-- Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative software components and logical solutions to solve problems. 
+- Fast forward to today, and not much has changed. I'm still the go-to person for technical problem-solving, but now I also create innovative software components and logical solutions to tackle complex challenges.
 
-- Currently, studying Applied Computer Science (Master) at FH Schmalkalden, Deutschland and looking for something new to collaborate and help shape the industry with my ideas, skills, and leadership capabilities. I have a great amount of perseverance to achieve my goal. I do is what drives me towards my success. 
+- From 2011 till 2017, I worked as a Digital marketer and after my Bachelor's I changed my track so that it related to my study and became a Web Developer. After coming to Germany I started working as a Frontend Developer with a bit of backend and DevOps and also helped a bit in the digital marketing with my experience. 
+
+- Currently, I'm pursuing a Master's in Applied Computer Science at Hochschule Schmalkalden, and I'm eager to collaborate on fresh ventures that can help shape the industry. I bring to the table a combination of ideas, technical skills, and leadership capabilities. Currently looking for DevOps related job role as I feel this is something I can truly contribute compared to Frontend Development. 
+
+- Let's connect and explore how we can drive innovation together! 💡🚀 
+
+#TechnologyEnthusiast #Entrepreneurship #StartUp #Innovation #AppliedComputerScience #DevOps #FrontendDeveloper
 
 
 #Github: https://github.com/iamKonick
