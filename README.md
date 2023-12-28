@@ -1,8 +1,9 @@
 ### Hello 👋 I am Efty
 
-## DevOps Enthusiast | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
+## Passionate DevOps Professional | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
+
 ### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
-### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Docker - Git
+### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Git
 
 - My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups HelloDoggy, SmartHR & and TripLet. 
 
