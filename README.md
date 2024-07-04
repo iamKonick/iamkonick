@@ -5,7 +5,8 @@
 ### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
 ### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Git
 
-- My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups HelloDoggy, SmartHR & and TripLet. 
+- My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups [Hello Doggy](https://www.behance.net/gallery/138019249/Hello-Doggy-Dog-Information-Matching-Android-App)
+, [SmartHR](https://www.behance.net/gallery/138018417/SmartHR-Android-Application) & and TripLet. 
 
 - Fast forward to today, and not much has changed. I'm still the go-to person for technical problem-solving, but now I also create innovative software components and logical solutions to tackle complex challenges.
 
