@@ -2,7 +2,8 @@
 
 ## Passionate DevOps Professional | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
 
-### Docker| Jenkins | Terraform | Ansible | Kubernetes | Helm | Sonarqube | Grafana | Loki | Promtail | Prometheus | AWS | EKS | Azure 
+### Terraform | Ansible | Docker| Jenkins | Kubernetes | Helm | Sonarqube | Trivy | Grafana | Loki | Promtail | Prometheus | 
+### AWS | Azure 
 ### Tailwind - TypeScript- JavaScript - VueJS - NodeJS - Jinja2 - MongoDB - Git
 
 - My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups [Hello Doggy](https://www.behance.net/gallery/138019249/Hello-Doggy-Dog-Information-Matching-Android-App)
