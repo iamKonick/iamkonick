@@ -1,21 +1,22 @@
 ### Hello 👋 I am Efty
 
-## Passionate DevOps Professional | Startup Enthusiast | Entrepreneur Mindset | Ex Frontend Developer
+## DevOps Geek 
 
-### Terraform | Ansible | Docker| Jenkins | Kubernetes | Helm | Sonarqube | Trivy | Grafana | Loki | Promtail | Prometheus | 
-### AWS | Azure 
+### Terraform | Docker| Jenkins | Kubernetes | Helm | Sonarqube | Trivy | Grafana | Promtail | Prometheus | 
+### AWS
 - My passion for technology has been a part of me since childhood. I used to dismantle and reassemble gadgets just for the sheer joy of understanding how they worked. My fascination with Entrepreneurship and startups also ignited early on when working on my own Startups [Hello Doggy](https://www.behance.net/gallery/138019249/Hello-Doggy-Dog-Information-Matching-Android-App)
 , [SmartHR](https://www.behance.net/gallery/138018417/SmartHR-Android-Application) & and TripLet. 
 
 - Fast forward to today, and not much has changed. I'm still the go-to person for technical problem-solving, but now I also create innovative software components and logical solutions to tackle complex challenges.
 
-- From 2011 till 2017, I worked as a Digital marketer and after my Bachelor's I changed my track so that it related to my study and became a Web Developer. After coming to Germany I started working as a Frontend Developer with a bit of backend and DevOps and also helped a bit in the digital marketing with my experience. 
+- After coming to Germany for my Master's, I started working as a Frontend Developer (Work Student) with a bit of backend and DevOps. Thatis then i was facinated by world of DevOps and didn't look back. 
 
-- Currently, I'm pursuing a Master's in Applied Computer Science at Hochschule Schmalkalden, and I'm eager to collaborate on fresh ventures that can help shape the industry. I bring to the table a combination of ideas, technical skills, and leadership capabilities. Currently looking for DevOps related job role as I feel this is something I can truly contribute compared to Frontend Development. 
+- Currently, I'm pursuing a Master's in Applied Computer Science at Hochschule Schmalkalden, and I'm eager to collaborate on fresh ventures that can help shape the industry. I bring to the table a combination of ideas, technical skills, and leadership capabilities.
+- Currently looking for DevOps related job role as I feel this is something I can truly contribute compared to Frontend Development. 
 
 - Let's connect and explore how we can drive innovation together! 💡🚀 
 
-#TechnologyEnthusiast #Entrepreneurship #StartUp #Innovation #AppliedComputerScience #DevOps #FrontendDeveloper
+#TechnologyEnthusiast #Innovation #AppliedComputerScience #DevOps 
 
 
 <br>
