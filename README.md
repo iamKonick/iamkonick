@@ -12,7 +12,7 @@
 - After coming to Germany for my Master's, I started working as a Frontend Developer (Work Student) with a bit of backend and DevOps. Thatis then i was facinated by world of DevOps and didn't look back. 
 
 - Currently, I'm pursuing a Master's in Applied Computer Science at Hochschule Schmalkalden, and I'm eager to collaborate on fresh ventures that can help shape the industry. I bring to the table a combination of ideas, technical skills, and leadership capabilities.
-- Currently looking for DevOps related job role as I feel this is something I can truly contribute compared to Frontend Development. 
+- Currently looking for DevOps related job roles. 
 
 - Let's connect and explore how we can drive innovation together! 💡🚀 
 
